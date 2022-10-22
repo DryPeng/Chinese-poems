@@ -1,7 +1,7 @@
 There item were not created by DryPeng
-If there is something wrong, please create an [issue](.
+If there is something wrong, please create an [issue](https://github.com/Drypeng/Chinese-poems/issues).
 
-----
+-------
 # Chinese-poems
 
 Now having 
