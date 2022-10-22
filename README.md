@@ -13,4 +13,4 @@ Now having
 
 Chinese Validation
 
-- @spendtopic
+- @SpendTopic
