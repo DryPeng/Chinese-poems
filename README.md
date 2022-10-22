@@ -7,3 +7,9 @@ If there is something wrong, please create an [issue](https://github.com/Drypeng
 
 Now having 
 - [Yuding Quantang Poems](https://github.com/Drypeng/Chinese-poems/tree/main/poems/Yuding%20Quantang%20Poems)
+
+
+## Thanks for
+
+Chinese Validation
+@spendtopic
