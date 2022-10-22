@@ -13,4 +13,4 @@ Now having
 
 Chinese Validation
 
-- @SpendTopic
+@[spendtopic](https://github.com/spendtopic)
