@@ -1,3 +1,3 @@
-[English](https://github.com/DryPeng/Chinese-poems/README.md)
+[English](https://github.com/DryPeng/Chinese-poems)
 
 # 中文古诗
