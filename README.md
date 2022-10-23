@@ -11,6 +11,4 @@ Now having
 
 ## Thanks for
 
-Chinese Validation
-
-@[spendtopic](https://github.com/spendtopic)
+Chinese Validation-[spendtopic](https://github.com/spendtopic)
