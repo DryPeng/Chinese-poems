@@ -1,3 +1,7 @@
+[中文](https://github.com/DryPeng/Chinese-poems/blob/main/Chinese_README.md) [^1]
+
+[^1]: 未完成，在大部分内容做完后制作中文文档
+
 There item were not created by DryPeng
 
 If there is something wrong, please create an [issue](https://github.com/Drypeng/Chinese-poems/issues).
