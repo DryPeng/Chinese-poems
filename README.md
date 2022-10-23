@@ -14,6 +14,8 @@ Now having
 
 - [Song Ci](https://github.com/DryPeng/Chinese-poems/tree/main/ci/Song%20Ci)
 
+- [The Analects](https://github.com/DryPeng/Chinese-poems/tree/main/The%20Analects)
+
 
 ## Thanks for
 
